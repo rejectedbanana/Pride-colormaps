@@ -6,7 +6,7 @@ A series of matlab colormaps based on various Pride flags to celebrate Pride mon
 
 Pride. Now with MOAR diversity!
 ![alt text](https://github.com/rejectedbanana/Pride-colormaps/blob/master/Flag0.jpg )
-![alt text](https://github.com/rejectedbanana/Pride-colormaps/blob/master/LGBTQ_Colormap.png )
+![alt text](https://github.com/rejectedbanana/Pride-colormaps/blob/master/LGBTQ_colormap.png )
 
 This is one version of the LGBTQ flag. 
 ![alt text](https://github.com/rejectedbanana/Pride-colormaps/blob/master/Gay_flag.svg)
