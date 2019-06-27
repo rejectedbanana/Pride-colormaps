@@ -27,7 +27,6 @@ end;
 
 cmdata = [
       0     0     0      % black     #000000
-    120    79    23      % brown     #784F17
     247     0     0      % red       #F70000
     255   140     0      % orange    #FF8C00
     255   239     0      % yellow    #FFEF00
@@ -45,8 +44,6 @@ cmp=interp1(xcmdata,cmdata,xnew);
 
 %  convert hex colors to rgb
 % clrs = {
-%     '000000'
-%     '784F17'
 %     'F70000'
 %     'FF8C00'
 %     'FFEF00'
